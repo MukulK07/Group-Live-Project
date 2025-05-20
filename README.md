@@ -35,20 +35,24 @@ Perfect for:
 - Corporate training evaluations
 - Competitive exam practice platforms
 
-## 📁 Project Structure
-/live-project
-├── /assets
-│   ├── /css
-│   │   └── styles.css
-│   ├── /js
-│   │   └── script.js
-│   └── /images
-│       └── logo.png
-├── firebase-config.js
-├── index.html
-├── login.html
-├── register.html
-├── quiz.html
-└── results.html
+## 📸 Preview
 
+ SIGNUP WINDOW!
+   
+![Quiz App Screenshot](signup.png) 
+
+
+   LOGIN WINDOW!
+   
+![Quiz App Screenshot](login.png) 
+
+
+ QUIZ WINDOW!
+ 
+![Quiz App Screenshot](quiz.png) 
+
+
+RESULT WINDOW!
+
+![Quiz App Screenshot](result.png) 
 
