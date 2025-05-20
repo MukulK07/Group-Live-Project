@@ -39,17 +39,17 @@ Perfect for:
 
  SIGNUP WINDOW!
    
-![Quiz App Screenshot](signup.png) 
+![screenshot](signup.png.png) 
 
 
    LOGIN WINDOW!
    
-![Quiz App Screenshot](login.png) 
+![screenshot](login.png.png) 
 
 
  QUIZ WINDOW!
  
-![Quiz App Screenshot](quiz.png) 
+![Quiz App Screenshot](quiz.png.png) 
 
 
 RESULT WINDOW!
