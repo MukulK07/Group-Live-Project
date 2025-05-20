@@ -39,12 +39,13 @@ Perfect for:
 
  SIGNUP WINDOW!
    
-![screenshot](signup.png.png) 
+![Quiz Page](./screenshots/signup.png.png)
 
 
-   LOGIN WINDOW!
+  LOGIN WINDOW!
    
-![screenshot](login.png.png) 
+![Quiz Page](./screenshots/login.png.png)
+
 
 
  QUIZ WINDOW!
