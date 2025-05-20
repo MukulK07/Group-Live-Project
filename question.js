@@ -1,0 +1,108 @@
+let questions = [
+  {
+    numb: 1,
+    question: "Which Indian classical dance form originates from the state of Kerala?",
+    answer: "Kathakali",
+    options: ["Bharatanatyam", "Kathakali", "Odissi", "Mohiniyattam"],
+  },
+  {
+    numb: 2,
+    question: "Who was the first Indian to receive the Bharat Ratna posthumously?",
+    answer: "Lal Bahadur Shastri",
+    options: ["Dr. B.R. Ambedkar", "Jawaharlal Nehru", "Lal Bahadur Shastri", "Sardar Vallabhbhai Patel"],
+  },
+  {
+    numb: 3,
+    question: "Which Indian scientist is known as the 'Missile Man of India'?",
+    answer: "Dr. A.P.J. Abdul Kalam",
+    options: [
+      "Dr. Vikram Sarabhai",
+      "Dr. Homi Bhabha",
+      "Dr. A.P.J. Abdul Kalam",
+      "Dr. C.V. Raman",
+    ],
+  },
+  {
+    numb: 4,
+    question: "In which year did India win its first Cricket World Cup?",
+    answer: "1983",
+    options: ["1975", "1983", "1987", "1996"],
+  },
+  {
+    numb: 5,
+    question: "Which Indian city is known as the 'Silicon Valley of India'?",
+    answer: "Bengaluru",
+    options: ["Hyderabad", "Pune", "Bengaluru", "Gurugram"],
+  },
+  {
+    numb: 6,
+    question: "Who was the first female Prime Minister of India?",
+    answer: "Indira Gandhi",
+    options: ["Sarojini Naidu", "Indira Gandhi", "Pratibha Patil", "Sushma Swaraj"],
+  },
+  {
+    numb: 7,
+    question: "What is the highest civilian award in India?",
+    answer: "Bharat Ratna",
+    options: ["Padma Shri", "Padma Bhushan", "Padma Vibhushan", "Bharat Ratna"],
+  },
+  {
+    numb: 8,
+    question: "Which Indian state has the highest literacy rate as per the latest census?",
+    answer: "Kerala",
+    options: ["Maharashtra", "Kerala", "Tamil Nadu", "Punjab"],
+  },
+  {
+    numb: 9,
+    question: "What is the national aquatic animal of India?",
+    answer: "River Dolphin",
+    options: ["Blue Whale", "Sea Turtle", "River Dolphin", "Crocodile"],
+  },
+  {
+    numb: 10,
+    question: "Who wrote the Indian national anthem 'Jana Gana Mana'?",
+    answer: "Rabindranath Tagore",
+    options: [
+      "Bankim Chandra Chatterjee",
+      "Sarojini Naidu",
+      "Rabindranath Tagore",
+      "Subhash Chandra Bose",
+    ],
+  },
+  {
+    numb: 11,
+    question: "Which Indian state is the largest producer of tea?",
+    answer: "Assam",
+    options: ["Kerala", "Assam", "Sikkim", "West Bengal"],
+  },
+  {
+    numb: 12,
+    question: "Who was the first Indian to go to space?",
+    answer: "Rakesh Sharma",
+    options: ["Kalpana Chawla", "Rakesh Sharma", "Sunita Williams", "Vikram Sarabhai"],
+  },
+  {
+    numb: 13,
+    question: "Which Indian monument is also known as the 'Symbol of Eternal Love'?",
+    answer: "Taj Mahal",
+    options: ["India Gate", "Qutub Minar", "Taj Mahal", "Charminar"],
+  },
+  {
+    numb: 14,
+    question: "Which Indian festival is known as the 'Festival of Lights'?",
+    answer: "Diwali",
+    options: ["Holi", "Diwali", "Eid", "Pongal"],
+  },
+  {
+    numb: 15,
+    question: "Which river is considered the holiest in India?",
+    answer: "Ganga",
+    options: ["Yamuna", "Brahmaputra", "Ganga", "Godavari"],
+  },
+  {
+    numb: 16,
+    question: "Please rate this Live Project!",
+    answer: "Excellent",
+    options: ["Excellent", "Needs improvement", "Poor", "None"],
+  },
+];
